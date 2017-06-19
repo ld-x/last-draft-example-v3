@@ -1,0 +1,48 @@
+.DraftEditor-editorContainer {
+  position: relative;
+  z-index: 1;
+}
+
+.paragraph {
+  margin-bottom: 2rem;
+}
+
+.public-DraftEditor-content figure {
+  margin: 1rem 0;
+}
+
+.public-DraftStyleDefault-ul {
+  list-style-type: disc;
+}
+
+.public-DraftStyleDefault-ol {
+  list-style-type: decimal;
+}
+
+.public-DraftStyleDefault-ol,
+.public-DraftStyleDefault-ul {
+  line-height: 2;
+  margin: 2.2rem 0 4rem 0;
+  padding-left: 2rem;
+}
+
+.public-DraftStyleDefault-ol li,
+.public-DraftStyleDefault-ul li {
+  padding-left: 1rem;
+}
+
+.public-DraftEditorPlaceholder-root {
+  color: #999;
+  position: absolute;
+  z-index: 0;
+}
+
+.public-DraftEditor-content h2 {
+  font-weight: 700;
+  line-height: 1.2;
+  margin: 4rem 0 2rem 0;
+}
+
+.public-DraftEditor-content h2:first-child {
+  margin-top: 0;
+}
