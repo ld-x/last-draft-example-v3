@@ -51,7 +51,7 @@
     "draft-js-mention-plugin": "2.0.0-rc2",
     "draft-js-plugins-editor": "2.0.0-rc2",
     "draft-js-resizeable-plugin": "2.0.0-rc2",
-    "express": "^4.13.4",
+    "express": "^4.17.3",
     "extract-text-webpack-plugin": "^2.0.0",
     "html-webpack-plugin": "^2.16.0",
     "immutable": "3.7.4",
